@@ -10,6 +10,7 @@ int main() {
     cout << "Kelompok : " << namaKelompok << endl;
     cout << "Anggota 1 : " << anggota1 << endl;
     cout << "Anggota 2 : " << anggota2 << endl;
+    cout << "Terima kasih!" << endl;
 
     return 0;
 }
