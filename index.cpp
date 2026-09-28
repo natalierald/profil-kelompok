@@ -3,8 +3,8 @@ using namespace std;
 
 int main() {
     string namaKelompok = "Kelompok Git";
-    string anggota1 = "Nama Mahasiswa A";
-    string anggota2 = "Nama Mahasiswa B";
+    string anggota1 = "Nadin";
+    string anggota2 = "Geraldine";
 
     cout << "=== PROFIL KELOMPOK ===" << endl;
     cout << "Kelompok : " << namaKelompok << endl;
